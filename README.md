@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm David García from Spain <br><br>- 📚 I'm currently learning physics at UGR <br>- ⚡ In my free time i dissapoint everyone</p>
+<p align="left">I'm David García from Spain <br><br>- 📚 I'm currently studying physics at UGR <br>- ⚡ In my free time i dissapoint everyone</p>
 
 ###
 
