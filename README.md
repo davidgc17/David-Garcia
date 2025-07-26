@@ -23,10 +23,11 @@
 
 <p align="left">
   I'm David García from Spain 🇪🇸<br><br>
-  - 📚 Currently studying Physics at UGR<br>
-  - 🧠 Interested in AI, Machine Learning, and Bioinformatics<br>
-  - 🔬 Building projects in scientific computing and data analysis<br>
-  - ⚡ In my free time I disappoint everyone
+  - 📚 Currently studying Physics at the University of Granada (UGR)<br>
+  - 🧠 Interested in AI, applied cryptography, and data analysis<br>
+  - 🛠 Building real-world projects with Python, SQL and Power BI<br>
+  - 📊 Exploring ways to combine neural networks with secure communication<br>
+  - 🔍 Actively looking for junior roles in Data Engineering, Python Dev or Analytics
 </p>
 
 ###
@@ -34,7 +35,6 @@
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="40" alt="Fortran" />
@@ -43,7 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 
-  <!-- Tools -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img width="12" />
@@ -55,16 +54,24 @@
 <h3 align="left">📂 Domains and Skills</h3>
 
 - 🧪 **Scientific Programming**: FORTRAN 77, Python NumPy/SciPy, symbolic math
-- 🧬 **Bioinformatics**: Big Data, Machine Learning, Pandas, Scikit-learn, RNA-seq data analysis
-- 🕸 **Web Scraping**: Selenium, Playwright, BeautifulSoup, anti-bot evasion, scraping multiwebs
-- 🔍 **Data Querying**: SPARQL (Wikidata), Cypher (Neo4j), RDF knowledge graphs
-- 📊 **Data Visualization**: Matplotlib, Seaborn, Plotly, Graph analysis
-- 🧠 **AI & ML**: Clustering, regression, classification, model evaluation
+- 🔐 **Crypto & AI (Neurocipher project)**: Hopfield networks, key recovery, prime encoding
+- 🕸 **Web Scraping**: Selenium, Playwright, BeautifulSoup, anti-bot evasion, multistep workflows
+- 📊 **Data Visualization**: Power BI, Matplotlib, Seaborn, Plotly
+- 🗃 **Data Pipelines**: SQLite, CSV, APIs, ETL flows
+- 🧠 **Machine Learning**: Scikit-learn, clustering, classification, model evaluation
+- 🌐 **Querying & Graphs**: SPARQL, Cypher (Neo4j), RDF triples, Wikidata
 - 📘 **Languages**: Spanish 🇪🇸, Valencian 🇻🇦, English 🇬🇧
+
+###
+
+<h3 align="left">📌 Featured Projects</h3>
+
+- 🔹 <a href="https://github.com/davidgc17/Scraping-sql-PowerBI">Scraping + SQL + Power BI</a>: real job scraping, data normalization and dashboarding with filtering and tech stack analysis  
+- 🔹 <a href="https://github.com/davidgc17/neurocipher">Neurocipher</a>: ongoing project to explore Hopfield networks and cryptographic encoding using prime numbers
 
 ###
 
 <h3 align="left">📫 Contact</h3>
 
-<p align="left">Feel free to reach out on <a href="https://www.linkedin.com/in/davidgc17/">LinkedIn</a> or <a href="https://twitter.com/davidgc17">Twitter</a></p>
+<p align="left">Feel free to reach out on <a href="https://www.linkedin.com/in/davidgc17/">LinkedIn</a> or <a href="https://twitter.com/davidgc17">Twitter</a>. I'm open to collaboration, freelance, and full-time junior roles.</p>
 
