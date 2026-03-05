@@ -2,76 +2,81 @@
   <img height="150" src="https://img4.wikia.nocookie.net/__cb20111123100845/simpsons/images/d/db/Estonian_Dwarf.png" />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/davidgc17/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/davidgc17">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+# 👋 Hi, I'm David
 
-###
+Python developer focused on **backend development, automation and data pipelines**.
 
-<h3 align="left">👨‍💻 About Me</h3>
+I build technical projects that integrate data from APIs, databases and web sources, designing processing workflows and backend components using Python and SQL.
 
-<p align="left">
-  I'm David García from Spain 🇪🇸<br><br>
-  - 📚 Currently studying Physics at the University of Granada (UGR)<br>
-  - 🧠 Interested in AI, applied cryptography, and data analysis<br>
-  - 🛠 Building real-world projects with Python, SQL and Power BI<br>
-  - 📊 Exploring ways to combine neural networks with secure communication<br>
-  - 🔍 Actively looking for junior roles in Data Engineering, Python Dev or Analytics
-</p>
+Currently finishing my **B.Sc. in Physics at the University of Granada**, with a strong focus on analytical problem solving and software development.
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+# 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="40" alt="Fortran" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+**Languages**
+- Python
+- SQL
+- Bash
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
+**Backend & Data**
+- Django
+- FastAPI
+- REST APIs
+- Data pipelines
+- ETL workflows
 
-###
+**Automation & Scraping**
+- Requests
+- BeautifulSoup
+- Playwright
 
-<h3 align="left">📂 Domains and Skills</h3>
+**Tools**
+- Git
+- Docker (basic)
+- Linux
+- VS Code
 
-- 🧪 **Scientific Programming**: FORTRAN 77, Python NumPy/SciPy, symbolic math
-- 🔐 **Crypto & AI (Neurocipher project)**: Hopfield networks, key recovery, prime encoding
-- 🕸 **Web Scraping**: Selenium, Playwright, BeautifulSoup, anti-bot evasion, multistep workflows
-- 📊 **Data Visualization**: Power BI, Matplotlib, Seaborn, Plotly
-- 🗃 **Data Pipelines**: SQLite, CSV, APIs, ETL flows
-- 🧠 **Machine Learning**: Scikit-learn, clustering, classification, model evaluation
-- 🌐 **Querying & Graphs**: SPARQL, Cypher (Neo4j), RDF triples, Wikidata
-- 📘 **Languages**: Spanish 🇪🇸, Valencian 🇻🇦, English 🇬🇧
+**Data & Visualization**
+- Pandas
+- NumPy
+- Power BI
 
-###
+---
 
-<h3 align="left">📌 Featured Projects</h3>
+# 📌 Featured Projects
 
-- 🔹 <a href="https://github.com/davidgc17/Scraping-sql-PowerBI">Scraping + SQL + Power BI</a>: real job scraping, data normalization and dashboarding with filtering and tech stack analysis  
-- 🔹 <a href="https://github.com/davidgc17/neurocipher">Neurocipher</a>: ongoing project to explore Hopfield networks and cryptographic encoding using prime numbers
+### 🔹 Smart Inventory
+Backend Django application modelling inventory management workflows and product tracking systems.  
+Includes relational data modelling, API endpoints and data validation logic.
 
-###
+https://github.com/davidgc17/Smart-inventory
 
-<h3 align="left">📫 Contact</h3>
+---
 
-<p align="left">Feel free to reach out on <a href="https://www.linkedin.com/in/davidgc17/">LinkedIn</a> or <a href="https://twitter.com/davidgc17">Twitter</a>. I'm open to collaboration, freelance, and full-time junior roles.</p>
+### 🔹 Scraping + SQL + Power BI
+Python data pipeline collecting and normalizing job market data through automated scraping and storing results in SQLite for structured analysis.
+
+https://github.com/davidgc17/Scraping-sql-PowerBI
+
+---
+
+### 🔹 Neurocipher
+Research-oriented project exploring the integration of cryptographic algorithms with Hopfield neural networks for secure key storage and recovery.
+
+https://github.com/davidgc17/neurocipher
+
+---
+
+# 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/davidgc17
 
