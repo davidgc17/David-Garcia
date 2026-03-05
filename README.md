@@ -16,7 +16,7 @@ Python developer focused on **backend development, automation and data pipelines
 
 I build technical projects that integrate data from APIs, databases and web sources, designing processing workflows and backend components using Python and SQL.
 
-Currently finishing my **B.Sc. in Physics at the University of Granada**, with a strong focus on analytical problem solving and software development.
+Background in Physics from the University of Granada, with strong analytical and problem-solving skills applied to software development.
 
 ---
 
