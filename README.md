@@ -14,9 +14,33 @@
 
 Python developer focused on **backend development, automation and data pipelines**.
 
-I build technical projects that integrate data from APIs, databases and web sources, designing processing workflows and backend components using Python and SQL.
+I build technical projects that integrate data from APIs, databases and web sources, designing processing workflows and backend components using **Python and SQL**.
 
 Background in Physics (University of Granada), bringing strong analytical thinking and problem-solving skills to software and data workflows.
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Smart Inventory
+Backend Django application modelling inventory management workflows and product tracking systems.  
+Includes relational data modelling, API endpoints and data validation logic.
+
+https://github.com/davidgc17/Smart-inventory
+
+---
+
+### 🔹 Scraping + SQL + Power BI
+Python data pipeline collecting and normalizing job market data through automated scraping and storing results in SQLite for structured analysis.
+
+https://github.com/davidgc17/Scraping-sql-PowerBI
+
+---
+
+### 🔹 Neurocipher
+Research-oriented project exploring the integration of cryptographic algorithms with Hopfield neural networks for secure key storage and recovery.
+
+https://github.com/davidgc17/neurocipher
 
 ---
 
@@ -52,31 +76,8 @@ Background in Physics (University of Granada), bringing strong analytical thinki
 
 ---
 
-# 📌 Featured Projects
-
-### 🔹 Smart Inventory
-Backend Django application modelling inventory management workflows and product tracking systems.  
-Includes relational data modelling, API endpoints and data validation logic.
-
-https://github.com/davidgc17/Smart-inventory
-
----
-
-### 🔹 Scraping + SQL + Power BI
-Python data pipeline collecting and normalizing job market data through automated scraping and storing results in SQLite for structured analysis.
-
-https://github.com/davidgc17/Scraping-sql-PowerBI
-
----
-
-### 🔹 Neurocipher
-Research-oriented project exploring the integration of cryptographic algorithms with Hopfield neural networks for secure key storage and recovery.
-
-https://github.com/davidgc17/neurocipher
-
----
-
 # 📫 Contact
 
+- Email: davidga276@gmail.com  
 - LinkedIn: https://linkedin.com/in/davidgc17
 
